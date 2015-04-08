@@ -1,0 +1,10 @@
+ingredients
+    Peanut butter
+    Jelly
+    bread
+
+directions
+    smear peanut butter and jelly onto one side of two slices of bread.
+    then push those sides together!
+    ta-da...
+
